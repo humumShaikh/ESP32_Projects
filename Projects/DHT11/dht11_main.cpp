@@ -1,6 +1,7 @@
 //CWIR3
 //Written for ESP32 DOIT DEVKIT V1
 
+
 //This is the program to configure the DHT 11 temperature and humidity sensor with the ESP32 //
 #include <DHT.h> //This is the header file for the DHT and you need to install the libraries seperately//
 
