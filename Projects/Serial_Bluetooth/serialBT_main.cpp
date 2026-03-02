@@ -1,4 +1,5 @@
 //CWIR3
+//written for ESP32 DOIT DEVKIT V1
 
 #include<BluetoothSerial.h>
 
