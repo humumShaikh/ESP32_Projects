@@ -1,5 +1,5 @@
 //CWIR3
-
+//written for ESP32 DOIT DEVKIT V1
 
 //This is the program to read inputs from a dual axis analog Joystick//
 //Note that the joystick needs to be powered up with 3.3V if being used with the ESP32 //
