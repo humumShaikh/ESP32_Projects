@@ -1,5 +1,6 @@
 //CWIR3
 //written for ESP32 DOIT DEVKIT V1
+//the default scl sda lines are 22 and 21 for the ESP version used in this project
 
 //This is the minimum and basic code required to print text over the 16x2 I2C LCD Display
 
