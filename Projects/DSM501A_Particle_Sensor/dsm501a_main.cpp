@@ -1,3 +1,5 @@
+//written for ESP32 DOIT DEVKIT V1
+
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 int pin = 8;
