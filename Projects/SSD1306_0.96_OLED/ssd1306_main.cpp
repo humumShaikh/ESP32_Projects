@@ -1,3 +1,5 @@
+//CWIR3
+
 //This is the minimum and basic code required to print text over the 0.96 inch I2C OLED Display//
 
 #include<Adafruit_SSD1306.h> //This is the header file and also need to install the Adafruit_SSD1306 library seperately as well//
