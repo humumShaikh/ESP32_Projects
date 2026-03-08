@@ -1,4 +1,5 @@
 //CWIR3
+//written for ESP32 DOIT DEVKIT V1
 
 //This is the minimum and basic code required to print text over the 0.96 inch I2C OLED Display//
 
