@@ -1,4 +1,5 @@
 //CWIR3
+//written for ESP32 DOIT DEVKIT V1
 
 
 //This is the minimum code required to move the SG90 micro servo at a defined position//
