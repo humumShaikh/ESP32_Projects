@@ -1,4 +1,5 @@
-86% of storage used … If you run out of space, you can't save to Drive, back up Google Photos, or use Gmail.
+//CWIR3
+
 #include<Adafruit_SH1106.h>
 
 #define OLED_SDA 21
