@@ -1,3 +1,5 @@
+//written for ESP32 DOIT DEVKIT V1
+
 // Pinouts //
 //RFID Reader    -    ESP32 //
 // SDA           -     IO5 //
