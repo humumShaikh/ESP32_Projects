@@ -40,9 +40,6 @@ void setup()
 
   Serial.begin(115200);
 
-  OLED.begin(SSD1306_SWITCHCAPVCC , OLED_ADDRESS);
-  OLED.clearDisplay();
-
   calibrate_baselines(); 
 
 }
