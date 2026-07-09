@@ -1,4 +1,5 @@
 //Written for ESP32 S2 Mini 2U 
+//Install the LSM303AGR Sensor library seperately
 
 #include <Arduino.h>
 #include <LSM303AGR_MAG_Sensor.h>
