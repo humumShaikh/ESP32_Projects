@@ -26,5 +26,4 @@ void setup()
 
 void loop() 
 {
- // Your main loop logic here
 }
