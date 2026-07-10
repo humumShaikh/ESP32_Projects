@@ -6,7 +6,6 @@
 
 void onTouch() 
 {
- // Logic for detecting touch or proximity
   Serial.println("Proximity detected!");
 }
 
