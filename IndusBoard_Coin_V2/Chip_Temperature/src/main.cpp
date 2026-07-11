@@ -13,7 +13,7 @@ void setup()
 void loop() 
 {
 
-  float temperature = temperatureRead(); // Reads internal temperature
+  float temperature = temperatureRead(); // Reads internal temperature of the chip
   Serial.print("Internal Chip Temperature: ");
   Serial.print(temperature);
   Serial.println(" °C");
