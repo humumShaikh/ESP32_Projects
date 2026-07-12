@@ -1,5 +1,5 @@
 //Written for ESP32 S2 Mini 2U
-//Indusboard Coin v2
+//Indusboard Coin v2 + FPC Board
 
 #include  <Arduino.h>
 #include  <Adafruit_SSD1306.h>
