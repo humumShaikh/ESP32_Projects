@@ -1,4 +1,5 @@
 //Written for ESP32 S2 Mini 2U
+//Indusboard Coin v2
 
 #include <Arduino.h>
 
