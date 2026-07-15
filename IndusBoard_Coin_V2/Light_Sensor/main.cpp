@@ -1,3 +1,5 @@
+//Written for ESP32 S2 Mini 2U
+
 #include <Arduino.h>
 
 #define lightSensor 2
