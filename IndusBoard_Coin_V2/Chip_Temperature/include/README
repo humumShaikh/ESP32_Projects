@@ -24,5 +24,3 @@ place, and programs that include the header file will automatically use the
 new version when next recompiled. The header file eliminates the labor of
 finding and changing all the copies as well as the risk that a failure to
 find one copy will result in inconsistencies within a program.
-
-In C, the convention is to give header files names that end with `.h'.
